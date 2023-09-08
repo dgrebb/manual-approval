@@ -33,4 +33,4 @@ inputs:
     required: false
 runs:
   using: docker
-  image: docker://ghcr.io/trstringer/manual-approval:1.9.0
+  image: docker://ghcr.io/dgrebb/manual-approval:0.2.0
