@@ -1,3 +1,9 @@
+## 0.2.0 (2023-09-08)
+
+### Feat
+
+- **project**: updates makefile and docker image
+
 ## 0.1.0 (2023-09-08)
 
 ### Feat
